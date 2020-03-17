@@ -4,6 +4,6 @@ public class TestGit
 
     String changeString()
     {
-        return "I don't know!";
+        return "I know shir!";
     }
 }
