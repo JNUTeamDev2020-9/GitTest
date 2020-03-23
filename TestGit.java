@@ -2,8 +2,11 @@ public class TestGit
 {
     String main = "How does this work?";
 
-    String changeString()
+    int changeString()
     {
+    int b=3;
         return "I don't know!";
+        int a = 4;
+        return a++;
     }
 }
