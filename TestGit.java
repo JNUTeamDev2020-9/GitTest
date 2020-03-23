@@ -1,12 +1,10 @@
 public class TestGit
 {
-    String main = "How does this work?";
+    String s = "How does this work?";
 
-    int changeString()
+    int changeString(String j)
     {
-    int b=11111;
-        return "I don't know!";
-        int a = 111111;
-        return a++;
+        String j = "cool";
+        return j[0];
     }
 }
