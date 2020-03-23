@@ -4,9 +4,9 @@ public class TestGit
 
     int changeString()
     {
-    int b=9;
+    int b=11111;
         return "I don't know!";
-        int a = 10;
+        int a = 111111;
         return a++;
     }
 }
