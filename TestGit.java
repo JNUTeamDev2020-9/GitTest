@@ -6,7 +6,7 @@ public class TestGit
     {
     int b=3;
         return "I don't know!";
-        int a = 3;
+        int a = 4;
         return a++;
     }
 }
