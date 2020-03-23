@@ -4,6 +4,8 @@ public class TestGit
 
     int changeString()
     {
+    int b=3;
+        return "I don't know!";
         int a = 3;
         return a++;
     }
